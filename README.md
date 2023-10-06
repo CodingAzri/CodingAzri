@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm on an exciting journey of transitioning from an engine
 
 ## 🔍 What I'm up to:
 
-- 🌱 Currently immersing myself in Python and all its wonders.
+- 🌱 Currently immersing myself in Python, NumPy and Pandas
 - 💼 Actively seeking job opportunities to apply my newfound skills.
 - 📈 Eager to tackle data-driven challenges and create meaningful solutions.
 
