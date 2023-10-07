@@ -1,4 +1,4 @@
-# Hi, I'm [Muhammad Azri Zapri](https://github.com/azzacodess)👋
+# Hi, I'm [Muhammad Azri Zapri](https://github.com/CodingAzri)👋
 
 Welcome to my GitHub! I'm on an exciting journey of transitioning from an engineering background to diving headfirst into the world of IT. My main focus right now is mastering the art of Python 🐍. My ultimate goal is to become a Python developer or analyst, leveraging its incredible data analysis capabilities.
 
