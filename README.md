@@ -12,6 +12,6 @@ Welcome to my GitHub! I'm on an exciting journey of transitioning from an engine
 
 - 📫 Drop me an email at [azrizapri01@gmail.com](mailto:azrizapri01@gmail.com) ✨
 - 💼 Connect on [LinkedIn](https://www.linkedin.com/in/muhammadazribinzapri/) 👥
-- 🐦 Follow me on [Twitter](https://twitter.com/azzacodes) for interesting updates!
+- 🐦 Follow me on [Twitter](https://twitter.com/codingazri) for interesting updates!
 
 Let's connect and create something amazing together! 🚀
